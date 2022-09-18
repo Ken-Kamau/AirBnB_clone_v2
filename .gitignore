@@ -1,7 +1,5 @@
-*__pycache__*
-*~
-\#*
-file.json
+*-main.py
+__pycache__/
 *.pyc
-*.deb
-main*
+*.swp
+file.json

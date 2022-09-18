@@ -1,5 +1,6 @@
-AirBnB clone
+# AirBnB clone
 
-# Author
 
-Ken Kamau
+## Author
+
+- [Kennedy Kamau]
